@@ -1,4 +1,4 @@
-alfred-dev-doctor-javadoc
+Alfred Dev Doctor: JavaDoc
 =========================
 
-Generates data.language.json files for Alfred v2 Dev Doctor workflow from HTML Javadocs.
+Javadoc parser project for adding JSON data files to [Alfred Dev Doctor](https://github.com/sydlawrence/alfred-dev-doctor).
