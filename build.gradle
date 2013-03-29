@@ -8,5 +8,6 @@ repositories {
 
 dependencies {
   groovy 'org.codehaus.groovy:groovy-all:2.0.6'
+  compile 'net.sourceforge.htmlcleaner:htmlcleaner:2.2'
   testCompile 'org.spockframework:spock-core:0.7-groovy-2.0'
 }
