@@ -3,7 +3,7 @@ package com.deploymentzone.devdoctor.javadoc
 import spock.lang.Specification
 
 class DocumentParserWithDescriptionSpecification extends Specification {
-  DocumentParser parser;
+  DocumentParser parser
 
   def setup() {
     def text = getClass().getResourceAsStream("/groovy-javadoc/AnnotatedNode.html").text
